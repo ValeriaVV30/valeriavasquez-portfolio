@@ -1,9 +1,9 @@
 # 👋 ¡Hola! Soy **Valeria Vásquez**
 
--👷‍♀️ **Ingeniera Civil Industrial**
--📊 Estudiante de **Data Science con Oracle**
--💡 Interesada en aplicar la **tecnología y la automatización** para mejorar la gestión empresarial.
--💻 En este portafolio iré compartiendo mis **proyectos, prácticas y aprendizajes** mientras avanzo en mi formación.
+- 👷‍♀️ **Ingeniera Civil Industrial**
+- 📊 Estudiante de **Data Science con Oracle**
+- 💡 Interesada en aplicar la **tecnología y la automatización** para mejorar la gestión empresarial.
+- 💻 En este portafolio iré compartiendo mis **proyectos, prácticas y aprendizajes** mientras avanzo en mi formación.
 
 ---
 
