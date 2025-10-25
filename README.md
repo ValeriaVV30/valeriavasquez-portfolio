@@ -43,7 +43,7 @@ Construir una carrera en el área de **Ciencia de datos y automatización**, uni
 ## 📫 Conectemos
 
 * 💼 [LinkedIn](https://linkedin.com/in/valeria-vasquez-valencia/)
-* 🐙 [GitHub](https://github.com/valeriavasquez)
+* 🐙 [GitHub](https://github.com/ValeriaVV30)
 
 ---
 
