@@ -28,7 +28,7 @@
 
 ## 🎯 Objetivo profesional
 
-Construir una carrera en el área de **análisis de datos y automatización**, uniendo la ingeniería con la tecnología para ayudar a las empresas a tomar mejores decisiones.
+Construir una carrera en el área de **Ciencia de datos y automatización**, uniendo la ingeniería con la tecnología para ayudar a las empresas a tomar mejores decisiones.
 
 ---
 
