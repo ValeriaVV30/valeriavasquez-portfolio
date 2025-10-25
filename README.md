@@ -1,28 +1,28 @@
 # 👋 ¡Hola! Soy **Valeria Vásquez**
 
-👷‍♀️ **Ingeniera Civil Industrial**
-📊 Estudiante de **Data Science con Oracle**
-💡 Interesada en aplicar la **tecnología y la automatización** para mejorar la gestión empresarial.
-💻 En este portafolio iré compartiendo mis **proyectos, prácticas y aprendizajes** mientras avanzo en mi formación.
+-👷‍♀️ **Ingeniera Civil Industrial**
+-📊 Estudiante de **Data Science con Oracle**
+-💡 Interesada en aplicar la **tecnología y la automatización** para mejorar la gestión empresarial.
+-💻 En este portafolio iré compartiendo mis **proyectos, prácticas y aprendizajes** mientras avanzo en mi formación.
 
 ---
 
 ## 🧠 Actualmente aprendiendo
 
-🔹 Python — lógica, estructuras y análisis de datos
-🔹 Pandas y NumPy — manipulación de datos
-🔹 Matplotlib y Seaborn — visualización de información
-🔹 Power BI — dashboards e indicadores empresariales
-🔹 Fundamentos de estadística y machine learning
+- Python — lógica, estructuras y análisis de datos
+- Pandas y NumPy — manipulación de datos
+- Matplotlib y Seaborn — visualización de información
+- Power BI — dashboards e indicadores empresariales
+- Fundamentos de estadística y machine learning
 
 ---
 
 ## 🚀 Próximos proyectos
 
-* 📂 Limpieza y análisis de datasets con Python
-* 📈 Dashboard de ventas con Power BI
-* ⚙️ Automatización simple con n8n o Zapier
-* 🤖 Mini proyectos aplicando IA en tareas de negocio
+- 📂 Limpieza y análisis de datasets con Python
+- 📈 Dashboard de ventas con Power BI
+- ⚙️ Automatización simple con n8n o Zapier
+- 🤖 Mini proyectos aplicando IA en tareas de negocio
 
 ---
 
